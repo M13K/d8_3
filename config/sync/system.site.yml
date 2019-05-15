@@ -1,7 +1,7 @@
 uuid: 58d52ab3-2b2f-4691-bae1-afef472af67e
 name: 'Google & co local-dev'
 mail: test@test.com
-slogan: 'Deployment formation'
+slogan: 'Deployment formation with dropTeam'
 page:
   403: ''
   404: ''
