@@ -1,0 +1,14 @@
+uuid: e45c54f2-e0ca-45aa-8489-2db0efbb9bcf
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+_core:
+  default_config_hash: '-NQROvgYPm-rqn_e6mytSaxmdhSViUinffVfQhp7APs'
+id: likert_agreement
+label: 'Likert: Agreement'
+category: Likert
+likert: true
+options: "1: 'Much Worse'\n2: 'Somewhat Worse'\n3: 'About the Same'\n4: 'Somewhat Better'\n5: 'Much Better'\n"
