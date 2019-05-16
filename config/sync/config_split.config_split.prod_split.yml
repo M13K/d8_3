@@ -1,0 +1,16 @@
+uuid: a32a14c5-38ed-4fa1-a1a0-4773c9161a2c
+langcode: en
+status: true
+dependencies: {  }
+id: prod_split
+label: prod_split
+description: ''
+folder: ../config/prod_split
+module: {  }
+theme: {  }
+blacklist:
+  - 'webform.webform.*'
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
