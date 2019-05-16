@@ -34,7 +34,7 @@ class SadHillSubscriber implements EventSubscriberInterface {
    * @param GetResponseEvent $event
    */
   public function request(Event $event) {
-    drupal_set_message('Event kernel.request thrown by Subscriber in module sad_hill: the world is divided into 2 categories...', 'status', TRUE);
+    drupal_set_message('Event kernel.request thrown by Subscriber in module sad_hill: the world is divided into 2 categories...Those who have the gun loaded and those who dig...', 'status');
   }
 
 }
