@@ -1,0 +1,6 @@
+services:
+  sad_hill.default:
+    class: Drupal\sad_hill\EventSubscriber\SadHillSubscriber
+    arguments: []
+    tags:
+      - { name: event_subscriber }
