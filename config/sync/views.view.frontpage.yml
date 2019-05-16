@@ -11,7 +11,7 @@ dependencies:
 _core:
   default_config_hash: ezK5Dw8P_4bqJdDQIiecSAJak9p1Wf1yDwHzTutGFuQ
 id: frontpage
-label: Frontpage
+label: Accueil
 module: node
 description: 'All content promoted to the front page.'
 tag: default
