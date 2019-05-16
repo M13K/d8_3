@@ -1,0 +1,8 @@
+uuid: c5143f52-9cb1-48cf-b0cf-ace2e3afc06f
+langcode: en
+status: true
+dependencies: {  }
+name: 'My Text Format'
+format: my_text_format
+weight: 0
+filters: {  }
