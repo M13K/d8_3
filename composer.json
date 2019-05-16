@@ -24,6 +24,7 @@
         "drupal/console": "^1.8",
         "drupal/core": "^8.7.0",
         "drupal/devel": "^2.1",
+        "drupal/panels": "^4.4",
         "drupal/webform": "^5.2",
         "drush/drush": "^9.0.0",
         "vlucas/phpdotenv": "^2.4",
