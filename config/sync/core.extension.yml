@@ -18,11 +18,9 @@ module:
   ctools: 0
   datetime: 0
   dblog: 0
-  devel: 0
   dynamic_page_cache: 0
   editor: 0
   field: 0
-  field_ui: 0
   file: 0
   filter: 0
   help: 0
@@ -31,7 +29,6 @@ module:
   kint: 0
   layout_discovery: 0
   link: 0
-  menu_ui: 0
   node: 0
   options: 0
   page_cache: 0
@@ -48,9 +45,7 @@ module:
   toolbar: 0
   tour: 0
   user: 0
-  views_ui: 0
   webform: 0
-  webprofiler: 0
   menu_link_content: 1
   views: 10
   standard: 1000
